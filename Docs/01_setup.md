@@ -1,5 +1,3 @@
-Here’s your clean **Markdown (.md) file** version:
-
 ```md
 ## Step 1 — Django project setup & folder structure
 
@@ -9,7 +7,7 @@ Let's get your project created and understand what every file does before writin
 
 ### What we're building
 
-```
+
 
 grocery_project/          ← Django project root
 ├── manage.py
@@ -30,7 +28,7 @@ grocery_project/          ← Django project root
 ├── migrations/
 └── templates/
 └── grocery/
-
+```
 ````
 
 ---
