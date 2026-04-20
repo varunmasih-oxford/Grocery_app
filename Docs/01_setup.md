@@ -29,7 +29,7 @@ grocery_project/          ← Django project root
 └── templates/
 └── grocery/
 ```
-````
+
 
 ---
 
